@@ -1,6 +1,8 @@
+#directories
 .idea
 src
 
+#files
 .env
 
 titles.txt
