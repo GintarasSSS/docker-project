@@ -23,6 +23,8 @@ services:
     env_file:
       - ./.env
 
+### Utilities ###
+
   composer:
     build:
       context: .
